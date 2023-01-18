@@ -1,0 +1,12 @@
+C:\Users\desp\Documents\Despoina\UniPi\3rd_Semester\Object_Oriented_App_Development\Μπόνους\BonusProj\BonusProj\bin\Debug\BonusProj.exe.config
+C:\Users\desp\Documents\Despoina\UniPi\3rd_Semester\Object_Oriented_App_Development\Μπόνους\BonusProj\BonusProj\bin\Debug\BonusProj.exe
+C:\Users\desp\Documents\Despoina\UniPi\3rd_Semester\Object_Oriented_App_Development\Μπόνους\BonusProj\BonusProj\bin\Debug\BonusProj.pdb
+C:\Users\desp\Documents\Despoina\UniPi\3rd_Semester\Object_Oriented_App_Development\Μπόνους\BonusProj\BonusProj\obj\Debug\BonusProj.csproj.AssemblyReference.cache
+C:\Users\desp\Documents\Despoina\UniPi\3rd_Semester\Object_Oriented_App_Development\Μπόνους\BonusProj\BonusProj\obj\Debug\BonusProj.csproj.SuggestedBindingRedirects.cache
+C:\Users\desp\Documents\Despoina\UniPi\3rd_Semester\Object_Oriented_App_Development\Μπόνους\BonusProj\BonusProj\obj\Debug\BonusProj.Form1.resources
+C:\Users\desp\Documents\Despoina\UniPi\3rd_Semester\Object_Oriented_App_Development\Μπόνους\BonusProj\BonusProj\obj\Debug\BonusProj.Properties.Resources.resources
+C:\Users\desp\Documents\Despoina\UniPi\3rd_Semester\Object_Oriented_App_Development\Μπόνους\BonusProj\BonusProj\obj\Debug\BonusProj.csproj.GenerateResource.cache
+C:\Users\desp\Documents\Despoina\UniPi\3rd_Semester\Object_Oriented_App_Development\Μπόνους\BonusProj\BonusProj\obj\Debug\BonusProj.csproj.CoreCompileInputs.cache
+C:\Users\desp\Documents\Despoina\UniPi\3rd_Semester\Object_Oriented_App_Development\Μπόνους\BonusProj\BonusProj\obj\Debug\BonusProj.exe
+C:\Users\desp\Documents\Despoina\UniPi\3rd_Semester\Object_Oriented_App_Development\Μπόνους\BonusProj\BonusProj\obj\Debug\BonusProj.pdb
+C:\Users\desp\Documents\Despoina\UniPi\3rd_Semester\Object_Oriented_App_Development\Μπόνους\BonusProj\BonusProj\obj\Debug\BonusProj.Form2.resources
